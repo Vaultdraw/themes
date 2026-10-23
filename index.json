@@ -1,2036 +1,3960 @@
-[
-  {
-    "name": "ADW",
-    "slug": "adw",
-    "path": "ADW/ADW.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#242424",
-      "#ffffff",
-      "#3584e4"
-    ],
-    "sha256": "0c1b090816959bfb5eedd2d2e7cb8af945e7d45ff9e101bed3ebe700d9cfe887"
-  },
-  {
-    "name": "Alpenglow",
-    "slug": "alpenglow",
-    "path": "Alpenglow/Alpenglow.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#1e1a24",
-      "#f5ede6",
-      "#e8a87c"
-    ],
-    "sha256": "b4bc4f208431794c55a42b7b365710c0235c60e8cae027db848aae124d031b21"
-  },
-  {
-    "name": "Atuel",
-    "slug": "atuel",
-    "path": "Atuel/Atuel.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#0a1126",
-      "#e1e7f5",
-      "#99b6f2"
-    ],
-    "sha256": "2efb0d6a3478dc874e2aefa4f86be0b53ac8da2bbc8b30940fa62ee93dd760de"
-  },
-  {
-    "name": "Aura",
-    "slug": "aura",
-    "path": "Aura/Aura.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#15141b",
-      "#edecee",
-      "#a277ff"
-    ],
-    "sha256": "d221df0bd91fc99066d8a05f24d4ad01342ecb3eb363b18e33ab13e435eec8d3"
-  },
-  {
-    "name": "Ayu",
-    "slug": "ayu",
-    "path": "Ayu/Ayu.json",
-    "source": "noctalia",
-    "credit": "Noctalia (noctalia-dev)",
-    "licence": "MIT",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#0b0e14",
-      "#d1d1c7",
-      "#e6b450"
-    ],
-    "sha256": "905fb5f7e4de4cceb0154a9166298fb3f127e60558f49253c23700a4adb37918"
-  },
-  {
-    "name": "Ayu Blue",
-    "slug": "ayu-blue",
-    "path": "Ayu Blue/Ayu Blue.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#0b0e14",
-      "#d1d1c7",
-      "#39bae6"
-    ],
-    "sha256": "6153a4c2347933750816022760547200a6cf053b9317a1d8ff8fee6c19336e23"
-  },
-  {
-    "name": "Ayu Green",
-    "slug": "ayu-green",
-    "path": "Ayu Green/Ayu Green.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#0b0e14",
-      "#d1d1c7",
-      "#aad94c"
-    ],
-    "sha256": "32cfdaf734fa7482968130e1a0fabcbe6450f0a252f2170a8e1e2e5e4e950256"
-  },
-  {
-    "name": "Ayu Red",
-    "slug": "ayu-red",
-    "path": "Ayu Red/Ayu Red.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#0b0e14",
-      "#d1d1c7",
-      "#d95757"
-    ],
-    "sha256": "15fe2dccb4cea9a1f059d3b527a8f3a87b64c88b3b9f1ed8a67d094efe8beb48"
-  },
-  {
-    "name": "Breeze",
-    "slug": "breeze",
-    "path": "Breeze/Breeze.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#202224",
-      "#fcfcfc",
-      "#3daee9"
-    ],
-    "sha256": "b126dbeea2009607a3d1e2f97e8dafaa4fda9ef5a3e216996bc4555d243a6f68"
-  },
-  {
-    "name": "Catppuccin Frappe Blue",
-    "slug": "catppuccin-frappe-blue",
-    "path": "Catppuccin Frappe Blue/Catppuccin Frappe Blue.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#303446",
-      "#c6d0f5",
-      "#8caaee"
-    ],
-    "sha256": "97150259436ad2588619e7a1a49bd5a311f8dbaecfa728e9ae196bbd3a3b4f2c"
-  },
-  {
-    "name": "Catppuccin Frappe Green",
-    "slug": "catppuccin-frappe-green",
-    "path": "Catppuccin Frappe Green/Catppuccin Frappe Green.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#303446",
-      "#c6d0f5",
-      "#a6d189"
-    ],
-    "sha256": "c8833da6af11d1e63ea597dcfc40bc99799579333a5273ec5373ae38f041cbc6"
-  },
-  {
-    "name": "Catppuccin Frappe Lavender",
-    "slug": "catppuccin-frappe-lavender",
-    "path": "Catppuccin Frappe Lavender/Catppuccin Frappe Lavender.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#303446",
-      "#c6d0f5",
-      "#babbf1"
-    ],
-    "sha256": "45448e262ac1da600fabe0d315204e4cdd16c5befd8472716ac1e8081a8b3702"
-  },
-  {
-    "name": "Catppuccin Frappe Mauve",
-    "slug": "catppuccin-frappe-mauve",
-    "path": "Catppuccin Frappe Mauve/Catppuccin Frappe Mauve.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#303446",
-      "#c6d0f5",
-      "#ca9ee6"
-    ],
-    "sha256": "b69bd6e75d4bd5ea6073dde9c3e18b51659012b899697cf38a40432af617a10b"
-  },
-  {
-    "name": "Catppuccin Frappe Peach",
-    "slug": "catppuccin-frappe-peach",
-    "path": "Catppuccin Frappe Peach/Catppuccin Frappe Peach.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#303446",
-      "#c6d0f5",
-      "#ef9f76"
-    ],
-    "sha256": "453b028a2d89b70ada397c31ea03a2e980e4e8ba89f03587418a3d2a336060d9"
-  },
-  {
-    "name": "Catppuccin Frappe Pink",
-    "slug": "catppuccin-frappe-pink",
-    "path": "Catppuccin Frappe Pink/Catppuccin Frappe Pink.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#303446",
-      "#c6d0f5",
-      "#f4b8e4"
-    ],
-    "sha256": "a6eb2abaed2ff16e14d7b4adeb544789dd04c684fdddd9a30657e8ee731a6edf"
-  },
-  {
-    "name": "Catppuccin Frappe Rosewater",
-    "slug": "catppuccin-frappe-rosewater",
-    "path": "Catppuccin Frappe Rosewater/Catppuccin Frappe Rosewater.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#303446",
-      "#c6d0f5",
-      "#f2d5cf"
-    ],
-    "sha256": "fc65d5491cfbb96148b69f27b365d2545c019cfe299a520783fa183e35a8c681"
-  },
-  {
-    "name": "Catppuccin Frappe Sapphire",
-    "slug": "catppuccin-frappe-sapphire",
-    "path": "Catppuccin Frappe Sapphire/Catppuccin Frappe Sapphire.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#303446",
-      "#c6d0f5",
-      "#85c1dc"
-    ],
-    "sha256": "8084cf69d7538146b09893371d0eafcd8b2cec81107a632ea5a6017baefb69cb"
-  },
-  {
-    "name": "Catppuccin Macchiato Blue",
-    "slug": "catppuccin-macchiato-blue",
-    "path": "Catppuccin Macchiato Blue/Catppuccin Macchiato Blue.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#24273a",
-      "#cad3f5",
-      "#8aadf4"
-    ],
-    "sha256": "6859e57e521256be0f6fccbd9ea5772f65f87c131ad2e4ca6f103eee8b0337b0"
-  },
-  {
-    "name": "Catppuccin Macchiato Green",
-    "slug": "catppuccin-macchiato-green",
-    "path": "Catppuccin Macchiato Green/Catppuccin Macchiato Green.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#24273a",
-      "#cad3f5",
-      "#a6da95"
-    ],
-    "sha256": "833db4627859585a7593825002239d7ffb6af09211a48ab8e4e0884014417916"
-  },
-  {
-    "name": "Catppuccin Macchiato Lavender",
-    "slug": "catppuccin-macchiato-lavender",
-    "path": "Catppuccin Macchiato Lavender/Catppuccin Macchiato Lavender.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#24273a",
-      "#cad3f5",
-      "#b7bdf8"
-    ],
-    "sha256": "c18d05e431c73ead3d0d2ae49966b96df3b120bd9cfd1460e1f35ed52897be5d"
-  },
-  {
-    "name": "Catppuccin Macchiato Mauve",
-    "slug": "catppuccin-macchiato-mauve",
-    "path": "Catppuccin Macchiato Mauve/Catppuccin Macchiato Mauve.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#24273a",
-      "#cad3f5",
-      "#c6a0f6"
-    ],
-    "sha256": "6726e3ae1948badcdf5e5ad43faa8570496a39660ecf210ec81ae0c72dd711cb"
-  },
-  {
-    "name": "Catppuccin Macchiato Peach",
-    "slug": "catppuccin-macchiato-peach",
-    "path": "Catppuccin Macchiato Peach/Catppuccin Macchiato Peach.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#24273a",
-      "#cad3f5",
-      "#f5a97f"
-    ],
-    "sha256": "8c722d411dd4edb9e696f251893485da63a868f3e7bbbc09c4ecaf07500fb01d"
-  },
-  {
-    "name": "Catppuccin Macchiato Pink",
-    "slug": "catppuccin-macchiato-pink",
-    "path": "Catppuccin Macchiato Pink/Catppuccin Macchiato Pink.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#24273a",
-      "#cad3f5",
-      "#f5bde6"
-    ],
-    "sha256": "8a2e11c517c9304684c4e5cc589a456a4710ac9f4c753e3fe213401f76ca9c9b"
-  },
-  {
-    "name": "Catppuccin Macchiato Rosewater",
-    "slug": "catppuccin-macchiato-rosewater",
-    "path": "Catppuccin Macchiato Rosewater/Catppuccin Macchiato Rosewater.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#24273a",
-      "#cad3f5",
-      "#f4dbd6"
-    ],
-    "sha256": "76fd493b71f67ff3d1054b1bd4202addaa8a9ababea9b80c43766e4ad8a87a51"
-  },
-  {
-    "name": "Catppuccin Macchiato Sapphire",
-    "slug": "catppuccin-macchiato-sapphire",
-    "path": "Catppuccin Macchiato Sapphire/Catppuccin Macchiato Sapphire.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#24273a",
-      "#cad3f5",
-      "#7dc4e4"
-    ],
-    "sha256": "8a23b5e1e50f56d0e31b9620c2014b7d289d3e0e7667511c2ccdef4af760432a"
-  },
-  {
-    "name": "Catppuccin Mocha Blue",
-    "slug": "catppuccin-mocha-blue",
-    "path": "Catppuccin Mocha Blue/Catppuccin Mocha Blue.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#1e1e2e",
-      "#cdd6f4",
-      "#89b4fa"
-    ],
-    "sha256": "11c36907575f6774214dbf21fae26fccbaa38254a263c404290122163f8ac0a8"
-  },
-  {
-    "name": "Catppuccin Mocha Green",
-    "slug": "catppuccin-mocha-green",
-    "path": "Catppuccin Mocha Green/Catppuccin Mocha Green.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#1e1e2e",
-      "#cdd6f4",
-      "#a6e3a1"
-    ],
-    "sha256": "5e3119fa973f88f555dbbc5d1666e4eacb8a3e17a83f56161fad4ff4d5b87846"
-  },
-  {
-    "name": "Catppuccin Mocha Lavender",
-    "slug": "catppuccin-mocha-lavender",
-    "path": "Catppuccin Mocha Lavender/Catppuccin Mocha Lavender.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#1e1e2e",
-      "#cdd6f4",
-      "#b4befe"
-    ],
-    "sha256": "670ea893f8b32a84137461122c2966ac3ca03b074f75286d14ae5508183a7576"
-  },
-  {
-    "name": "Catppuccin Mocha Maroon",
-    "slug": "catppuccin-mocha-maroon",
-    "path": "Catppuccin Mocha Maroon/Catppuccin Mocha Maroon.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#1e1e2e",
-      "#cdd6f4",
-      "#eba0ac"
-    ],
-    "sha256": "1bfc37dffb98b6f6116bd281e43a21e85b07e119b066d8b031e208afbeb6551f"
-  },
-  {
-    "name": "Catppuccin Mocha Mauve-Lavender",
-    "slug": "catppuccin-mocha-mauve-lavender",
-    "path": "Catppuccin Mocha Mauve-Lavender/Catppuccin Mocha Mauve-Lavender.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#1e1e2e",
-      "#cdd6f4",
-      "#cba6f7"
-    ],
-    "sha256": "e9cf41750630775ae9addb8c2548f0f2d947d27955b35fd6c2f62258b0b9e5ed"
-  },
-  {
-    "name": "Catppuccin Mocha Peach",
-    "slug": "catppuccin-mocha-peach",
-    "path": "Catppuccin Mocha Peach/Catppuccin Mocha Peach.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#1e1e2e",
-      "#cdd6f4",
-      "#fab387"
-    ],
-    "sha256": "bc55d91dafc7c592464fe7b9bb5db6dd4784b60f82618de77ef6a4768c51bcd8"
-  },
-  {
-    "name": "Catppuccin Mocha Pink",
-    "slug": "catppuccin-mocha-pink",
-    "path": "Catppuccin Mocha Pink/Catppuccin Mocha Pink.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#1e1e2e",
-      "#cdd6f4",
-      "#f5c2e7"
-    ],
-    "sha256": "cdd98e21f3bcf889a336db684f3bebb310c00c02449bf2d36d16b8f60571b61e"
-  },
-  {
-    "name": "Catppuccin Mocha Rosewater",
-    "slug": "catppuccin-mocha-rosewater",
-    "path": "Catppuccin Mocha Rosewater/Catppuccin Mocha Rosewater.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#1e1e2e",
-      "#cdd6f4",
-      "#f5e0dc"
-    ],
-    "sha256": "8c4433bcd47a42f85c706dadfc65340091079fe582f3068b0f7b034310a2a9b4"
-  },
-  {
-    "name": "Catppuccin Mocha Sapphire",
-    "slug": "catppuccin-mocha-sapphire",
-    "path": "Catppuccin Mocha Sapphire/Catppuccin Mocha Sapphire.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#1e1e2e",
-      "#cdd6f4",
-      "#74c7ec"
-    ],
-    "sha256": "fa933d9c0256bd8941cbd2a3563a7ed5b117e5ec6b53acb9cb6898151ecb6ca6"
-  },
-  {
-    "name": "Cendre",
-    "slug": "cendre",
-    "path": "Cendre/Cendre.json",
-    "source": "cendre",
-    "credit": "aejkatappaja (Cendre)",
-    "licence": "MIT",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#171311",
-      "#e6d5c2",
-      "#ea9875"
-    ],
-    "sha256": "fd042e09c24c7563d0cc6d3fdda96b3e7d1c4e0c407b268d0c9d44606d9b0594"
-  },
-  {
-    "name": "Cendre Medium",
-    "slug": "cendre-medium",
-    "path": "Cendre Medium/Cendre Medium.json",
-    "source": "cendre",
-    "credit": "aejkatappaja (Cendre)",
-    "licence": "MIT",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#1d1917",
-      "#e6d5c2",
-      "#ea9875"
-    ],
-    "sha256": "328c0ed144d9f96b37484dd7429e6f361197ba7e2295a5f26748e18a8cfa6c25"
-  },
-  {
-    "name": "Cendre Soft",
-    "slug": "cendre-soft",
-    "path": "Cendre Soft/Cendre Soft.json",
-    "source": "cendre",
-    "credit": "aejkatappaja (Cendre)",
-    "licence": "MIT",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#231f1d",
-      "#e6d5c2",
-      "#ea9875"
-    ],
-    "sha256": "74b806196032f490b20d8f895451b482c5553420f6e31909954c02049f458ff2"
-  },
-  {
-    "name": "Cherry Blossom",
-    "slug": "cherry-blossom",
-    "path": "Cherry Blossom/Cherry Blossom.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#2a1922",
-      "#f3c7d7",
-      "#f2c1d4"
-    ],
-    "sha256": "a57f0036124ce76139fe11ab3a3c994f97cedc42ea09e87cb633d678bd27347a"
-  },
-  {
-    "name": "Coral and Sea",
-    "slug": "coral-and-sea",
-    "path": "Coral and Sea/Coral and Sea.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#1e1e1e",
-      "#d4d4d4",
-      "#d1704f"
-    ],
-    "sha256": "04d94ca4f3306389c02454a74f21a6bb6a670b2bc02a5bbd9e0e625c2fba0279"
-  },
-  {
-    "name": "Cream",
-    "slug": "cream",
-    "path": "Cream/Cream.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#161311",
-      "#e6dfd3",
-      "#a2b574"
-    ],
-    "sha256": "805c2fe7654f1422e6053801f1a63c7d71111486dd50b27f853b665b35577d9b"
-  },
-  {
-    "name": "Cream Autumn",
-    "slug": "cream-autumn",
-    "path": "Cream Autumn/Cream Autumn.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#161311",
-      "#dcd8cd",
-      "#e5c799"
-    ],
-    "sha256": "e577b077fcad10e0c83d5e9c694ec4a8d917b837d05c61ee4c0b92f26eac8a92"
-  },
-  {
-    "name": "Creamy Forest",
-    "slug": "creamy-forest",
-    "path": "Creamy Forest/Creamy Forest.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#1c1e1a",
-      "#f4f6eb",
-      "#a2b08d"
-    ],
-    "sha256": "ce15e951994dd9c5a83b8dffe854f073e74c4d58aac93533cb1cf7b4991d480e"
-  },
-  {
-    "name": "Cyberpunk",
-    "slug": "cyberpunk",
-    "path": "Cyberpunk/Cyberpunk.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#0c1017",
-      "#5c8ac4",
-      "#c4a82e"
-    ],
-    "sha256": "eebea2f6243e0730c52907f4d17bb808e5477331c414028366ef8a2bbc1063be"
-  },
-  {
-    "name": "Doomed",
-    "slug": "doomed",
-    "path": "Doomed/Doomed.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#1c1e1e",
-      "#fffcf8",
-      "#51afef"
-    ],
-    "sha256": "23316594882ac4c5f19950f4c2ffcb1e5c48809fbb39e917d0675dbc1e442136"
-  },
-  {
-    "name": "Eldritch",
-    "slug": "eldritch",
-    "path": "Eldritch/Eldritch.json",
-    "source": "noctalia",
-    "credit": "Noctalia (noctalia-dev)",
-    "licence": "MIT",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#212337",
-      "#ebfafa",
-      "#37f499"
-    ],
-    "sha256": "8ba62dff4376407004349eba3bb9dd67a188629c8ce806ce28c3da546eda0140"
-  },
-  {
-    "name": "Espresso Cream",
-    "slug": "espresso-cream",
-    "path": "Espresso Cream/Espresso Cream.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#1a120b",
-      "#ede0d4",
-      "#e29578"
-    ],
-    "sha256": "0b05f0ab9fa95c2ddd2fcd4bda948d82b3f138d1e600e56ab35bf50a95eb60f3"
-  },
-  {
-    "name": "Everdeer",
-    "slug": "everdeer",
-    "path": "Everdeer/Everdeer.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#1c110e",
-      "#f4ded9",
-      "#ffb4a3"
-    ],
-    "sha256": "638b1c058adee35e8c7090a078395007616c8590f897ee1143b60a3716039518"
-  },
-  {
-    "name": "Everforest Dim",
-    "slug": "everforest-dim",
-    "path": "Everforest Dim/Everforest Dim.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#232a2e",
-      "#859289",
-      "#a7c080"
-    ],
-    "sha256": "812c85107d9cb048d2f6d6b9661ec624a3e6df764101e045f2f3f05e760255a7"
-  },
-  {
-    "name": "Everforest Material",
-    "slug": "everforest-material",
-    "path": "Everforest Material/Everforest Material.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#161616",
-      "#d3c6aa",
-      "#a7c080"
-    ],
-    "sha256": "a59c695b5fae12004f2b17b9f3bd5ce1a7d78480bd47251f75d35285a29cffb1"
-  },
-  {
-    "name": "Flexoki",
-    "slug": "flexoki",
-    "path": "Flexoki/Flexoki.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#100f0f",
-      "#cecdc3",
-      "#879a39"
-    ],
-    "sha256": "d398ec91276c0fd641b3c4df7391e324a86268fa658df39406c7781605fd53cd"
-  },
-  {
-    "name": "Garnet",
-    "slug": "garnet",
-    "path": "Garnet/Garnet.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#121212",
-      "#e8e0e0",
-      "#990000"
-    ],
-    "sha256": "65f0d84e39bcdcf83a748b748a66e1a4bdab9aa1574078bb113a444b5ad439e1"
-  },
-  {
-    "name": "GitHub Dark",
-    "slug": "github-dark",
-    "path": "GitHub Dark/GitHub Dark.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#010409",
-      "#c9d1d9",
-      "#58a6ff"
-    ],
-    "sha256": "1163b713adc2a3a4b76f5028758728c1e8184dbbd49605fe440f7237fd911a91"
-  },
-  {
-    "name": "Gruber Darker",
-    "slug": "gruber-darker",
-    "path": "Gruber Darker/Gruber Darker.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#181818",
-      "#e4e4ef",
-      "#ffdd33"
-    ],
-    "sha256": "638ee580dd5afa9861efad0492787d69b006ad9328399365c45dc46052e5a0cb"
-  },
-  {
-    "name": "Gruvbox Material",
-    "slug": "gruvbox-material",
-    "path": "Gruvbox Material/Gruvbox Material.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#32302f",
-      "#ddc7a1",
-      "#a9b665"
-    ],
-    "sha256": "389dc520bfeeddfd992566096d2d7a7108a909be0f9881423a4f100a4aab9778"
-  },
-  {
-    "name": "Gruvbox Material Hard",
-    "slug": "gruvbox-material-hard",
-    "path": "Gruvbox Material Hard/Gruvbox Material Hard.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#1d2021",
-      "#d4be98",
-      "#a9b665"
-    ],
-    "sha256": "03854a3d855865e4a8730b0b9c4e02e5fa5b250680d0bd7ec5ac1fec32f4f452"
-  },
-  {
-    "name": "Gruvbox Material Medium",
-    "slug": "gruvbox-material-medium",
-    "path": "Gruvbox Material Medium/Gruvbox Material Medium.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#282828",
-      "#ddc7a1",
-      "#a9b665"
-    ],
-    "sha256": "9e047c5f54bca5a5634ab9473832ad1ed98bf66d847c7b5ea94c4c2cc4139ab5"
-  },
-  {
-    "name": "GruvboxAlt",
-    "slug": "gruvboxalt",
-    "path": "GruvboxAlt/GruvboxAlt.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#282828",
-      "#fbf1c7",
-      "#ebdbb2"
-    ],
-    "sha256": "bc70813a739fcd8c004bf3329cdbb3b5c8381251696388db8627bab9f57991a0"
-  },
-  {
-    "name": "Heartbox",
-    "slug": "heartbox",
-    "path": "Heartbox/Heartbox.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#1a1214",
-      "#f4ebe0",
-      "#e02030"
-    ],
-    "sha256": "284e66da2af35a8440882e8e4adcc87ecdaa8b8ed216bf9c5055fd0f49bbe8dc"
-  },
-  {
-    "name": "Hexa34C",
-    "slug": "hexa34c",
-    "path": "Hexa34C/Hexa34C.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#101510",
-      "#dfe4dc",
-      "#9ad4a1"
-    ],
-    "sha256": "07c596fc861808418a9b85a162cb683b2cbb51965ef87a6fdc141c0a9e9b0859"
-  },
-  {
-    "name": "Horizon",
-    "slug": "horizon",
-    "path": "Horizon/Horizon.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#1a1c23",
-      "#fdf0ed",
-      "#25b2bc"
-    ],
-    "sha256": "090aada9a365f39d0c924d8c66ed3c9d9f5300678ae79f6abd219a0d229cbf53"
-  },
-  {
-    "name": "Inabakumori",
-    "slug": "inabakumori",
-    "path": "Inabakumori/Inabakumori.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#333333",
-      "#dddddd",
-      "#b2b2b2"
-    ],
-    "sha256": "d64deaa77a9789aa9735d19d85cd928e6307c5318cd82d1669cb22529dbdf618"
-  },
-  {
-    "name": "Jiva",
-    "slug": "jiva",
-    "path": "Jiva/Jiva.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#2d2b33",
-      "#e5e5d8",
-      "#eddd8e"
-    ],
-    "sha256": "3641ddb648573d080e4310a0512ad622f448e734effa9b17eb3cf3182270114d"
-  },
-  {
-    "name": "Jiva Lotus",
-    "slug": "jiva-lotus",
-    "path": "Jiva Lotus/Jiva Lotus.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#212226",
-      "#e1e2e5",
-      "#debfbf"
-    ],
-    "sha256": "813c50e54b3b885947182e8fb9626cbe47cb7a9402beed2d3368036933956ab9"
-  },
-  {
-    "name": "Jiva Paper",
-    "slug": "jiva-paper",
-    "path": "Jiva Paper/Jiva Paper.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#212226",
-      "#e1e2e5",
-      "#bfc0de"
-    ],
-    "sha256": "428fe001235e776d083a4749771c0d6ed17d510c972683507182b62cddec8d6c"
-  },
-  {
-    "name": "Kanagawa Dragon",
-    "slug": "kanagawa-dragon",
-    "path": "Kanagawa Dragon/Kanagawa Dragon.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#181616",
-      "#c5c9c5",
-      "#8a9a7b"
-    ],
-    "sha256": "b9bffb93485d072bd5750b39eef7b9fb5764a06a0c65e118ac2e891873cbaf1e"
-  },
-  {
-    "name": "Kanagawa Kasumi",
-    "slug": "kanagawa-kasumi",
-    "path": "Kanagawa Kasumi/Kanagawa Kasumi.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#1a2026",
-      "#d9d1ba",
-      "#d9a78b"
-    ],
-    "sha256": "549b83e400829745cd836dae91a1e10a7a775c29f7287b5a99d2c9bb9adca4a9"
-  },
-  {
-    "name": "Kanagawa Paper",
-    "slug": "kanagawa-paper",
-    "path": "Kanagawa Paper/Kanagawa Paper.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#1f1f28",
-      "#dcd7ba",
-      "#c4b28a"
-    ],
-    "sha256": "6bd0830803502ab6b7b3aa2dd0372d441f9eb311b44c46260aac38f8fca73242"
-  },
-  {
-    "name": "Kemuri",
-    "slug": "kemuri",
-    "path": "Kemuri/Kemuri.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#242120",
-      "#e5dec9",
-      "#cb9168"
-    ],
-    "sha256": "72ac6ee9301b83f2c2b08a58916c792ccbde401c87f955b7e4a675ab5924dc2f"
-  },
-  {
-    "name": "Kemuri Koke",
-    "slug": "kemuri-koke",
-    "path": "Kemuri Koke/Kemuri Koke.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#242120",
-      "#e5dec9",
-      "#8ba37e"
-    ],
-    "sha256": "7b37a5e38cdb157c7e6ee45066a4570038837231c41bad8fd76bbffaec8703b0"
-  },
-  {
-    "name": "Kemuri Susu",
-    "slug": "kemuri-susu",
-    "path": "Kemuri Susu/Kemuri Susu.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#1e1d1b",
-      "#f0ede6",
-      "#cabaaa"
-    ],
-    "sha256": "32692a4a94360c10c9799869b7f5f46d2ce0a5abff49511bebbb2289020259fc"
-  },
-  {
-    "name": "Kitten",
-    "slug": "kitten",
-    "path": "Kitten/Kitten.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#232323",
-      "#828282",
-      "#b7b7b7"
-    ],
-    "sha256": "778e14de0e1d3d00497ebb54d8934612f4924283e77442367380b9e4d6871800"
-  },
-  {
-    "name": "Koneko",
-    "slug": "koneko",
-    "path": "Koneko/Koneko.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#232323",
-      "#c2c2c2",
-      "#cc7e8b"
-    ],
-    "sha256": "692b6ac9246a435b73028921e54c0d5fbda876a805e8c572d1583c14ce1bdb41"
-  },
-  {
-    "name": "Lilac AMOLED",
-    "slug": "lilac-amoled",
-    "path": "Lilac AMOLED/Lilac AMOLED.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#000000",
-      "#e8d8ff",
-      "#b58fff"
-    ],
-    "sha256": "3ba1cc37c0ce5975bcbca7502141ad57b96255847dc31103a09cd0f56853a779"
-  },
-  {
-    "name": "Macaron",
-    "slug": "macaron",
-    "path": "Macaron/Macaron.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#18181a",
-      "#d4d4d4",
-      "#e5b4e2"
-    ],
-    "sha256": "f3f9bbf06b4ccfd9bb4ca495b035375c077f4032642a7a05e8a5bb86c72911b4"
-  },
-  {
-    "name": "Matecito",
-    "slug": "matecito",
-    "path": "Matecito/Matecito.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#1e2320",
-      "#d3cdc3",
-      "#8da383"
-    ],
-    "sha256": "e122eca8b22ae762e8e06eb2fea9b85cb6a1daeb136d99300b853770d8aab5cd"
-  },
-  {
-    "name": "Miasma",
-    "slug": "miasma",
-    "path": "Miasma/Miasma.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#222222",
-      "#c2c2b0",
-      "#c9a554"
-    ],
-    "sha256": "03747d9c60813be40d530c8d9bd77596a9f0709ebc0c0ad7a20f446b74fca653"
-  },
-  {
-    "name": "Mine",
-    "slug": "mine",
-    "path": "Mine/Mine.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#1d1b1d",
-      "#e1e2d5",
-      "#e1e2d5"
-    ],
-    "sha256": "d90a458a4cf189992ceb5b7d7a3a146b821c679698b565e6085eed36fccb3c63"
-  },
-  {
-    "name": "Mizuki-Akiyama",
-    "slug": "mizuki-akiyama",
-    "path": "Mizuki-Akiyama/Mizuki-Akiyama.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#10111b",
-      "#eee7f0",
-      "#e6a6c8"
-    ],
-    "sha256": "fe01ab61fc74d01ffc0c38710b7a527d3fceca6c9f3359f030ecbe6e68c2df45"
-  },
-  {
-    "name": "Monochrome",
-    "slug": "monochrome",
-    "path": "Monochrome/Monochrome.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#111111",
-      "#828282",
-      "#aaaaaa"
-    ],
-    "sha256": "2b248ef790690771171c281cf1d9eaeeda81e436d0120d42378cb40f11e21641"
-  },
-  {
-    "name": "Murasaki",
-    "slug": "murasaki",
-    "path": "Murasaki/Murasaki.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#300443",
-      "#fef7e7",
-      "#e8bcfb"
-    ],
-    "sha256": "ada1bb2e54b551012a3b967743c67ce19d89aac5c5ffb27c5c984963cf0a72fa"
-  },
-  {
-    "name": "Murata",
-    "slug": "murata",
-    "path": "Murata/Murata.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#1a1b1c",
-      "#cdc5bd",
-      "#db6d6d"
-    ],
-    "sha256": "cb6d42339e9ce52ce2d5d0e5654d233815cec4549ef594c6695fc3781c9c6ba0"
-  },
-  {
-    "name": "NaySayer",
-    "slug": "naysayer",
-    "path": "NaySayer/NaySayer.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#062329",
-      "#d1b897",
-      "#2ec09c"
-    ],
-    "sha256": "445e59361aaf51407033c1c0335db3f309584cdd0991173005ff81dbdd0a0e62"
-  },
-  {
-    "name": "Neon Surf",
-    "slug": "neon-surf",
-    "path": "Neon Surf/Neon Surf.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#000000",
-      "#80c8f4",
-      "#00a8f4"
-    ],
-    "sha256": "b6862b3162d32e4b1944c1649bbbed51795a0434d0945f829c34e4ea0910a3c7"
-  },
-  {
-    "name": "Noctalia",
-    "slug": "noctalia",
-    "path": "Noctalia/Noctalia.json",
-    "source": "noctalia",
-    "credit": "Noctalia (noctalia-dev)",
-    "licence": "MIT",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#070722",
-      "#f3edf7",
-      "#fff59b"
-    ],
-    "sha256": "9beb2108b2fd14bf3dfd5716b059c54bc40558715e085c00c4949fe90075c252"
-  },
-  {
-    "name": "Noctalia legacy",
-    "slug": "noctalia-legacy",
-    "path": "Noctalia legacy/Noctalia legacy.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#1c1822",
-      "#e9e4f0",
-      "#c7a1d8"
-    ],
-    "sha256": "bd274268e8dcc5bc62185efd6922aa12378f7f6e64303c3a1de70b490d99a6df"
-  },
-  {
-    "name": "Nord Aurora",
-    "slug": "nord-aurora",
-    "path": "Nord Aurora/Nord Aurora.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#2e3440",
-      "#eceff4",
-      "#b48ead"
-    ],
-    "sha256": "7e9dc60f43e71193ee1ca9658b6874f2173f221ab8373db660645052fcf46c2a"
-  },
-  {
-    "name": "Oasis Abyss",
-    "slug": "oasis-abyss",
-    "path": "Oasis Abyss/Oasis Abyss.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#1a1a1a",
-      "#ffdacc",
-      "#d06666"
-    ],
-    "sha256": "6a6cedb651175437efe77dde778b5f2eb2de87bf5ccf9e9bf2f178f531bd749b"
-  },
-  {
-    "name": "Occult Umbral",
-    "slug": "occult-umbral",
-    "path": "Occult Umbral/Occult Umbral.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#0a0a12",
-      "#e4ded2",
-      "#bb3535"
-    ],
-    "sha256": "ed0ed380dcf99325850598d1c8e0a17ef53d32d70080c9e9f73b79e4f601022a"
-  },
-  {
-    "name": "One Dark Two",
-    "slug": "one-dark-two",
-    "path": "One Dark Two/One Dark Two.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#21252b",
-      "#c9ccd3",
-      "#62bac6"
-    ],
-    "sha256": "cfe735332e17e812f85aad587c8e43e2e048e07385f9bdb67bc10c77a25e3f53"
-  },
-  {
-    "name": "Osaka jade",
-    "slug": "osaka-jade",
-    "path": "Osaka jade/Osaka jade.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#081512",
-      "#a6b5b1",
-      "#1a7f67"
-    ],
-    "sha256": "3f432c50386756e386ae2c4b7f293d328a84757bc40da5b316fe8d12c347c66c"
-  },
-  {
-    "name": "Oxide",
-    "slug": "oxide",
-    "path": "Oxide/Oxide.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#231d1b",
-      "#e6dbd3",
-      "#b85a30"
-    ],
-    "sha256": "9b7ac4ed85d261d0c5930c45b78d911f7b8bebc594e9b3c6f9622facfa9760c5"
-  },
-  {
-    "name": "Oxocarbon",
-    "slug": "oxocarbon",
-    "path": "Oxocarbon/Oxocarbon.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#161616",
-      "#f2f4f8",
-      "#33b1ff"
-    ],
-    "sha256": "1c42cd29db85f968b40f51129fb9c75d3ef99bcdd7c4a3b3a8e72e58a5ce0650"
-  },
-  {
-    "name": "Paradise",
-    "slug": "paradise",
-    "path": "Paradise/Paradise.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#151515",
-      "#e8e3e3",
-      "#8da3b9"
-    ],
-    "sha256": "b9f45feaa43dad339a62685ac53f294b748ad33e7909c62096188e9cf613ded9"
-  },
-  {
-    "name": "Peche",
-    "slug": "peche",
-    "path": "Peche/Peche.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#0e1214",
-      "#abbcc4",
-      "#9dd2c0"
-    ],
-    "sha256": "9d1c02f615643d6ecccb19b5cfe7bbc3a5fe445c8ee1894582dc1e45325f3cdf"
-  },
-  {
-    "name": "Rose Pine Alt",
-    "slug": "rose-pine-alt",
-    "path": "Rose Pine Alt/Rose Pine Alt.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#191724",
-      "#e0def4",
-      "#c4a7e7"
-    ],
-    "sha256": "539661ece648fea191eed80e966f40d294c3dff46e4c6aba389b8aca486ee4d1"
-  },
-  {
-    "name": "Rose Pine Moon",
-    "slug": "rose-pine-moon",
-    "path": "Rose Pine Moon/Rose Pine Moon.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#232136",
-      "#e0def4",
-      "#ea9a97"
-    ],
-    "sha256": "5306920339499c89004cff2dd8d0f2a934bcd5f85680f0c48ededb3de71290b9"
-  },
-  {
-    "name": "Rose Pine Moon Alt",
-    "slug": "rose-pine-moon-alt",
-    "path": "Rose Pine Moon Alt/Rose Pine Moon Alt.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#232136",
-      "#e0def4",
-      "#c4a7e7"
-    ],
-    "sha256": "72f1c795c6a3de493873f3c1ad891f095c2e1ff5f0bc3009c27b3a751a83f1a1"
-  },
-  {
-    "name": "Rosey AMOLED",
-    "slug": "rosey-amoled",
-    "path": "Rosey AMOLED/Rosey AMOLED.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#000000",
-      "#ffe0eb",
-      "#ff8cb3"
-    ],
-    "sha256": "1950cd6facc3e15be5dfd9905770971d50ffb60cbeef1877c4796a279c107f27"
-  },
-  {
-    "name": "Rosé Pine",
-    "slug": "ros-pine",
-    "path": "Rosé Pine/Rosé Pine.json",
-    "source": "noctalia",
-    "credit": "Noctalia (noctalia-dev)",
-    "licence": "MIT",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#191724",
-      "#e0def4",
-      "#ebbcba"
-    ],
-    "sha256": "75f58738b9275161900f30993eddb61c44875ed931edc566a1a9cab41c8c5b5e"
-  },
-  {
-    "name": "SeaBed",
-    "slug": "seabed",
-    "path": "SeaBed/SeaBed.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#0e2231",
-      "#e9f0f2",
-      "#87e1dc"
-    ],
-    "sha256": "fe39bb8a0222e49fc2a8d4b507be0512ad24e5e30a2e488707c7e9c214033ca3"
-  },
-  {
-    "name": "Seoul256",
-    "slug": "seoul256",
-    "path": "Seoul256/Seoul256.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#3a3a3a",
-      "#d0d0d0",
-      "#d5a55f"
-    ],
-    "sha256": "996c5287b2241e936acd6164fe87b3ff4ece48e8aa6dc992bb581ff54bfcb80e"
-  },
-  {
-    "name": "Seoul256 Hard",
-    "slug": "seoul256-hard",
-    "path": "Seoul256 Hard/Seoul256 Hard.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#1c1c1c",
-      "#d0d0d0",
-      "#d5a55f"
-    ],
-    "sha256": "680a4669c725f5a4d6acbec5250117db37a3f459366de65e64b97f6167edd9fc"
-  },
-  {
-    "name": "Seoul256 Soft",
-    "slug": "seoul256-soft",
-    "path": "Seoul256 Soft/Seoul256 Soft.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#4e4e4e",
-      "#d0d0d0",
-      "#d5a55f"
-    ],
-    "sha256": "b88210b8aeca91e2526ad36d67f921628c250c2d83f6f66ab93cae9806a8f926"
-  },
-  {
-    "name": "Shien",
-    "slug": "shien",
-    "path": "Shien/Shien.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#15131b",
-      "#bfb3db",
-      "#9b8bc1"
-    ],
-    "sha256": "a72cbebac9a1b94cf90e357e47dfcef5c295fe2f9c04ee48b8e5ce2dfdedfb3e"
-  },
-  {
-    "name": "Shinonome",
-    "slug": "shinonome",
-    "path": "Shinonome/Shinonome.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#1a1d20",
-      "#ebcfb2",
-      "#d5aca9"
-    ],
-    "sha256": "c087a96d984a457906289ff32fa2ade1abdc3e7d7fbff39762a49203248feb15"
-  },
-  {
-    "name": "Solarized Osaka",
-    "slug": "solarized-osaka",
-    "path": "Solarized Osaka/Solarized Osaka.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#001419",
-      "#839395",
-      "#29a298"
-    ],
-    "sha256": "fd853249963e627ab24f32806c1fa5b42c90e36800b459973976066c2f39702a"
-  },
-  {
-    "name": "Spiderman",
-    "slug": "spiderman",
-    "path": "Spiderman/Spiderman.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#0b2454",
-      "#eaf0fb",
-      "#f5453f"
-    ],
-    "sha256": "1489951299e00ef94dd46438e991ad9e76ad4d6b83b4b805be71501dd0fde95d"
-  },
-  {
-    "name": "Sway Classic",
-    "slug": "sway-classic",
-    "path": "Sway Classic/Sway Classic.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#222222",
-      "#f0f0f0",
-      "#4c7899"
-    ],
-    "sha256": "e27a078784bcc47b9ddbf4bbd007635fd8151f1e3c21468e985643572febf62f"
-  },
-  {
-    "name": "Tokyo Night Moon",
-    "slug": "tokyo-night-moon",
-    "path": "Tokyo Night Moon/Tokyo Night Moon.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#1f2335",
-      "#a9b1d6",
-      "#7a88cf"
-    ],
-    "sha256": "9fe601dcfeda83ac1d7c13dbdd77899fe477f172fca2c20063ad8e4b0c88fb3d"
-  },
-  {
-    "name": "Tokyo Night Storm",
-    "slug": "tokyo-night-storm",
-    "path": "Tokyo Night Storm/Tokyo Night Storm.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#24283b",
-      "#c0caf5",
-      "#7aa2f7"
-    ],
-    "sha256": "9c9526c1e396cbc7b3cd38992d67ea04b60062aebbfa522cbe039e09fad8a279"
-  },
-  {
-    "name": "Tomorrow",
-    "slug": "tomorrow",
-    "path": "Tomorrow/Tomorrow.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#1d1f21",
-      "#c5c8c6",
-      "#81a2be"
-    ],
-    "sha256": "e99b83cff9c1a16aa1364194fa0c2250895a7b8489433f4893021e8305d790f1"
-  },
-  {
-    "name": "Vesper",
-    "slug": "vesper",
-    "path": "Vesper/Vesper.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#0c0c0c",
-      "#ffffff",
-      "#ffc799"
-    ],
-    "sha256": "e0a71ab082285efc722c245d3c06a5f857454cadafafd776240d1c8707d93f75"
-  },
-  {
-    "name": "Zenbones",
-    "slug": "zenbones",
-    "path": "Zenbones/Zenbones.json",
-    "source": "noctalia-community",
-    "credit": "Noctalia community palettes",
-    "licence": "none upstream, included with credit",
-    "modes": [
-      "dark",
-      "light"
-    ],
-    "swatch": [
-      "#1c1917",
-      "#b4bdc3",
-      "#b4bdc3"
-    ],
-    "sha256": "9f6065994a74e9ca75ec908e892282c6b1d8b8d81762f3eb9beecec8be2c5fd6"
-  }
-]
+{
+  "schemaVersion": 1,
+  "themes": [
+    {
+      "name": "ADW",
+      "slug": "adw",
+      "path": "ADW/ADW.json",
+      "meta": "ADW/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#242424",
+          "#ffffff",
+          "#3584e4"
+        ],
+        "light": [
+          "#fafafa",
+          "#2e3436",
+          "#3584e4"
+        ]
+      },
+      "sha256": "0c1b090816959bfb5eedd2d2e7cb8af945e7d45ff9e101bed3ebe700d9cfe887",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Alpenglow",
+      "slug": "alpenglow",
+      "path": "Alpenglow/Alpenglow.json",
+      "meta": "Alpenglow/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#1e1a24",
+          "#f5ede6",
+          "#e8a87c"
+        ],
+        "light": [
+          "#fdf6ee",
+          "#2a2028",
+          "#c8703a"
+        ]
+      },
+      "sha256": "b4bc4f208431794c55a42b7b365710c0235c60e8cae027db848aae124d031b21",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Atuel",
+      "slug": "atuel",
+      "path": "Atuel/Atuel.json",
+      "meta": "Atuel/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#0a1126",
+          "#e1e7f5",
+          "#99b6f2"
+        ],
+        "light": [
+          "#d9e2f7",
+          "#0a1126",
+          "#1a3673"
+        ]
+      },
+      "sha256": "2efb0d6a3478dc874e2aefa4f86be0b53ac8da2bbc8b30940fa62ee93dd760de",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Aura",
+      "slug": "aura",
+      "path": "Aura/Aura.json",
+      "meta": "Aura/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#15141b",
+          "#edecee",
+          "#a277ff"
+        ],
+        "light": [
+          "#f8f7fb",
+          "#15141b",
+          "#6f4bb8"
+        ]
+      },
+      "sha256": "d221df0bd91fc99066d8a05f24d4ad01342ecb3eb363b18e33ab13e435eec8d3",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Ayu",
+      "slug": "ayu",
+      "path": "Ayu/Ayu.json",
+      "meta": "Ayu/meta.json",
+      "author": "Noctalia (MIT) - github.com/noctalia-dev/noctalia",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia"
+      ],
+      "source": "noctalia",
+      "credit": "Noctalia (noctalia-dev)",
+      "licence": "MIT",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#0b0e14",
+          "#d1d1c7",
+          "#e6b450"
+        ],
+        "light": [
+          "#f8f9fa",
+          "#42474c",
+          "#ff8f40"
+        ]
+      },
+      "sha256": "905fb5f7e4de4cceb0154a9166298fb3f127e60558f49253c23700a4adb37918",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/noctalia"
+    },
+    {
+      "name": "Ayu Blue",
+      "slug": "ayu-blue",
+      "path": "Ayu Blue/Ayu Blue.json",
+      "meta": "Ayu Blue/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#0b0e14",
+          "#d1d1c7",
+          "#39bae6"
+        ],
+        "light": [
+          "#f8f9fa",
+          "#42474c",
+          "#55b4d4"
+        ]
+      },
+      "sha256": "6153a4c2347933750816022760547200a6cf053b9317a1d8ff8fee6c19336e23",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Ayu Green",
+      "slug": "ayu-green",
+      "path": "Ayu Green/Ayu Green.json",
+      "meta": "Ayu Green/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#0b0e14",
+          "#d1d1c7",
+          "#aad94c"
+        ],
+        "light": [
+          "#f8f9fa",
+          "#42474c",
+          "#86b300"
+        ]
+      },
+      "sha256": "32cfdaf734fa7482968130e1a0fabcbe6450f0a252f2170a8e1e2e5e4e950256",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Ayu Red",
+      "slug": "ayu-red",
+      "path": "Ayu Red/Ayu Red.json",
+      "meta": "Ayu Red/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#0b0e14",
+          "#d1d1c7",
+          "#d95757"
+        ],
+        "light": [
+          "#f8f9fa",
+          "#42474c",
+          "#e65050"
+        ]
+      },
+      "sha256": "15fe2dccb4cea9a1f059d3b527a8f3a87b64c88b3b9f1ed8a67d094efe8beb48",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Breeze",
+      "slug": "breeze",
+      "path": "Breeze/Breeze.json",
+      "meta": "Breeze/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#202224",
+          "#fcfcfc",
+          "#3daee9"
+        ],
+        "light": [
+          "#ffffff",
+          "#232629",
+          "#3daee9"
+        ]
+      },
+      "sha256": "b126dbeea2009607a3d1e2f97e8dafaa4fda9ef5a3e216996bc4555d243a6f68",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Catppuccin Frappe Blue",
+      "slug": "catppuccin-frappe-blue",
+      "path": "Catppuccin Frappe Blue/Catppuccin Frappe Blue.json",
+      "meta": "Catppuccin Frappe Blue/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#303446",
+          "#c6d0f5",
+          "#8caaee"
+        ],
+        "light": [
+          "#eff1f5",
+          "#4c4f69",
+          "#1e66f5"
+        ]
+      },
+      "sha256": "97150259436ad2588619e7a1a49bd5a311f8dbaecfa728e9ae196bbd3a3b4f2c",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Catppuccin Frappe Green",
+      "slug": "catppuccin-frappe-green",
+      "path": "Catppuccin Frappe Green/Catppuccin Frappe Green.json",
+      "meta": "Catppuccin Frappe Green/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#303446",
+          "#c6d0f5",
+          "#a6d189"
+        ],
+        "light": [
+          "#eff1f5",
+          "#4c4f69",
+          "#40a02b"
+        ]
+      },
+      "sha256": "c8833da6af11d1e63ea597dcfc40bc99799579333a5273ec5373ae38f041cbc6",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Catppuccin Frappe Lavender",
+      "slug": "catppuccin-frappe-lavender",
+      "path": "Catppuccin Frappe Lavender/Catppuccin Frappe Lavender.json",
+      "meta": "Catppuccin Frappe Lavender/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#303446",
+          "#c6d0f5",
+          "#babbf1"
+        ],
+        "light": [
+          "#eff1f5",
+          "#4c4f69",
+          "#7287fd"
+        ]
+      },
+      "sha256": "45448e262ac1da600fabe0d315204e4cdd16c5befd8472716ac1e8081a8b3702",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Catppuccin Frappe Mauve",
+      "slug": "catppuccin-frappe-mauve",
+      "path": "Catppuccin Frappe Mauve/Catppuccin Frappe Mauve.json",
+      "meta": "Catppuccin Frappe Mauve/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#303446",
+          "#c6d0f5",
+          "#ca9ee6"
+        ],
+        "light": [
+          "#eff1f5",
+          "#4c4f69",
+          "#8839ef"
+        ]
+      },
+      "sha256": "b69bd6e75d4bd5ea6073dde9c3e18b51659012b899697cf38a40432af617a10b",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Catppuccin Frappe Peach",
+      "slug": "catppuccin-frappe-peach",
+      "path": "Catppuccin Frappe Peach/Catppuccin Frappe Peach.json",
+      "meta": "Catppuccin Frappe Peach/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#303446",
+          "#c6d0f5",
+          "#ef9f76"
+        ],
+        "light": [
+          "#eff1f5",
+          "#4c4f69",
+          "#fe640b"
+        ]
+      },
+      "sha256": "453b028a2d89b70ada397c31ea03a2e980e4e8ba89f03587418a3d2a336060d9",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Catppuccin Frappe Pink",
+      "slug": "catppuccin-frappe-pink",
+      "path": "Catppuccin Frappe Pink/Catppuccin Frappe Pink.json",
+      "meta": "Catppuccin Frappe Pink/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#303446",
+          "#c6d0f5",
+          "#f4b8e4"
+        ],
+        "light": [
+          "#eff1f5",
+          "#4c4f69",
+          "#ea76cb"
+        ]
+      },
+      "sha256": "a6eb2abaed2ff16e14d7b4adeb544789dd04c684fdddd9a30657e8ee731a6edf",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Catppuccin Frappe Rosewater",
+      "slug": "catppuccin-frappe-rosewater",
+      "path": "Catppuccin Frappe Rosewater/Catppuccin Frappe Rosewater.json",
+      "meta": "Catppuccin Frappe Rosewater/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#303446",
+          "#c6d0f5",
+          "#f2d5cf"
+        ],
+        "light": [
+          "#eff1f5",
+          "#4c4f69",
+          "#dc8a78"
+        ]
+      },
+      "sha256": "fc65d5491cfbb96148b69f27b365d2545c019cfe299a520783fa183e35a8c681",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Catppuccin Frappe Sapphire",
+      "slug": "catppuccin-frappe-sapphire",
+      "path": "Catppuccin Frappe Sapphire/Catppuccin Frappe Sapphire.json",
+      "meta": "Catppuccin Frappe Sapphire/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#303446",
+          "#c6d0f5",
+          "#85c1dc"
+        ],
+        "light": [
+          "#eff1f5",
+          "#4c4f69",
+          "#209fb5"
+        ]
+      },
+      "sha256": "8084cf69d7538146b09893371d0eafcd8b2cec81107a632ea5a6017baefb69cb",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Catppuccin Macchiato Blue",
+      "slug": "catppuccin-macchiato-blue",
+      "path": "Catppuccin Macchiato Blue/Catppuccin Macchiato Blue.json",
+      "meta": "Catppuccin Macchiato Blue/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#24273a",
+          "#cad3f5",
+          "#8aadf4"
+        ],
+        "light": [
+          "#eff1f5",
+          "#4c4f69",
+          "#1e66f5"
+        ]
+      },
+      "sha256": "6859e57e521256be0f6fccbd9ea5772f65f87c131ad2e4ca6f103eee8b0337b0",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Catppuccin Macchiato Green",
+      "slug": "catppuccin-macchiato-green",
+      "path": "Catppuccin Macchiato Green/Catppuccin Macchiato Green.json",
+      "meta": "Catppuccin Macchiato Green/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#24273a",
+          "#cad3f5",
+          "#a6da95"
+        ],
+        "light": [
+          "#eff1f5",
+          "#4c4f69",
+          "#40a02b"
+        ]
+      },
+      "sha256": "833db4627859585a7593825002239d7ffb6af09211a48ab8e4e0884014417916",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Catppuccin Macchiato Lavender",
+      "slug": "catppuccin-macchiato-lavender",
+      "path": "Catppuccin Macchiato Lavender/Catppuccin Macchiato Lavender.json",
+      "meta": "Catppuccin Macchiato Lavender/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#24273a",
+          "#cad3f5",
+          "#b7bdf8"
+        ],
+        "light": [
+          "#eff1f5",
+          "#4c4f69",
+          "#7287fd"
+        ]
+      },
+      "sha256": "c18d05e431c73ead3d0d2ae49966b96df3b120bd9cfd1460e1f35ed52897be5d",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Catppuccin Macchiato Mauve",
+      "slug": "catppuccin-macchiato-mauve",
+      "path": "Catppuccin Macchiato Mauve/Catppuccin Macchiato Mauve.json",
+      "meta": "Catppuccin Macchiato Mauve/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#24273a",
+          "#cad3f5",
+          "#c6a0f6"
+        ],
+        "light": [
+          "#eff1f5",
+          "#4c4f69",
+          "#8839ef"
+        ]
+      },
+      "sha256": "6726e3ae1948badcdf5e5ad43faa8570496a39660ecf210ec81ae0c72dd711cb",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Catppuccin Macchiato Peach",
+      "slug": "catppuccin-macchiato-peach",
+      "path": "Catppuccin Macchiato Peach/Catppuccin Macchiato Peach.json",
+      "meta": "Catppuccin Macchiato Peach/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#24273a",
+          "#cad3f5",
+          "#f5a97f"
+        ],
+        "light": [
+          "#eff1f5",
+          "#4c4f69",
+          "#fe640b"
+        ]
+      },
+      "sha256": "8c722d411dd4edb9e696f251893485da63a868f3e7bbbc09c4ecaf07500fb01d",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Catppuccin Macchiato Pink",
+      "slug": "catppuccin-macchiato-pink",
+      "path": "Catppuccin Macchiato Pink/Catppuccin Macchiato Pink.json",
+      "meta": "Catppuccin Macchiato Pink/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#24273a",
+          "#cad3f5",
+          "#f5bde6"
+        ],
+        "light": [
+          "#eff1f5",
+          "#4c4f69",
+          "#ea76cb"
+        ]
+      },
+      "sha256": "8a2e11c517c9304684c4e5cc589a456a4710ac9f4c753e3fe213401f76ca9c9b",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Catppuccin Macchiato Rosewater",
+      "slug": "catppuccin-macchiato-rosewater",
+      "path": "Catppuccin Macchiato Rosewater/Catppuccin Macchiato Rosewater.json",
+      "meta": "Catppuccin Macchiato Rosewater/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#24273a",
+          "#cad3f5",
+          "#f4dbd6"
+        ],
+        "light": [
+          "#eff1f5",
+          "#4c4f69",
+          "#dc8a78"
+        ]
+      },
+      "sha256": "76fd493b71f67ff3d1054b1bd4202addaa8a9ababea9b80c43766e4ad8a87a51",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Catppuccin Macchiato Sapphire",
+      "slug": "catppuccin-macchiato-sapphire",
+      "path": "Catppuccin Macchiato Sapphire/Catppuccin Macchiato Sapphire.json",
+      "meta": "Catppuccin Macchiato Sapphire/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#24273a",
+          "#cad3f5",
+          "#7dc4e4"
+        ],
+        "light": [
+          "#eff1f5",
+          "#4c4f69",
+          "#209fb5"
+        ]
+      },
+      "sha256": "8a23b5e1e50f56d0e31b9620c2014b7d289d3e0e7667511c2ccdef4af760432a",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Catppuccin Mocha Blue",
+      "slug": "catppuccin-mocha-blue",
+      "path": "Catppuccin Mocha Blue/Catppuccin Mocha Blue.json",
+      "meta": "Catppuccin Mocha Blue/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#1e1e2e",
+          "#cdd6f4",
+          "#89b4fa"
+        ],
+        "light": [
+          "#eff1f5",
+          "#4c4f69",
+          "#1e66f5"
+        ]
+      },
+      "sha256": "11c36907575f6774214dbf21fae26fccbaa38254a263c404290122163f8ac0a8",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Catppuccin Mocha Green",
+      "slug": "catppuccin-mocha-green",
+      "path": "Catppuccin Mocha Green/Catppuccin Mocha Green.json",
+      "meta": "Catppuccin Mocha Green/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#1e1e2e",
+          "#cdd6f4",
+          "#a6e3a1"
+        ],
+        "light": [
+          "#eff1f5",
+          "#4c4f69",
+          "#40a02b"
+        ]
+      },
+      "sha256": "5e3119fa973f88f555dbbc5d1666e4eacb8a3e17a83f56161fad4ff4d5b87846",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Catppuccin Mocha Lavender",
+      "slug": "catppuccin-mocha-lavender",
+      "path": "Catppuccin Mocha Lavender/Catppuccin Mocha Lavender.json",
+      "meta": "Catppuccin Mocha Lavender/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#1e1e2e",
+          "#cdd6f4",
+          "#b4befe"
+        ],
+        "light": [
+          "#eff1f5",
+          "#4c4f69",
+          "#7287fd"
+        ]
+      },
+      "sha256": "670ea893f8b32a84137461122c2966ac3ca03b074f75286d14ae5508183a7576",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Catppuccin Mocha Maroon",
+      "slug": "catppuccin-mocha-maroon",
+      "path": "Catppuccin Mocha Maroon/Catppuccin Mocha Maroon.json",
+      "meta": "Catppuccin Mocha Maroon/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#1e1e2e",
+          "#cdd6f4",
+          "#eba0ac"
+        ],
+        "light": [
+          "#eff1f5",
+          "#4c4f69",
+          "#e64553"
+        ]
+      },
+      "sha256": "1bfc37dffb98b6f6116bd281e43a21e85b07e119b066d8b031e208afbeb6551f",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Catppuccin Mocha Mauve-Lavender",
+      "slug": "catppuccin-mocha-mauve-lavender",
+      "path": "Catppuccin Mocha Mauve-Lavender/Catppuccin Mocha Mauve-Lavender.json",
+      "meta": "Catppuccin Mocha Mauve-Lavender/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#1e1e2e",
+          "#cdd6f4",
+          "#cba6f7"
+        ],
+        "light": [
+          "#eff1f5",
+          "#4c4f69",
+          "#8839ef"
+        ]
+      },
+      "sha256": "e9cf41750630775ae9addb8c2548f0f2d947d27955b35fd6c2f62258b0b9e5ed",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Catppuccin Mocha Peach",
+      "slug": "catppuccin-mocha-peach",
+      "path": "Catppuccin Mocha Peach/Catppuccin Mocha Peach.json",
+      "meta": "Catppuccin Mocha Peach/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#1e1e2e",
+          "#cdd6f4",
+          "#fab387"
+        ],
+        "light": [
+          "#eff1f5",
+          "#4c4f69",
+          "#fe640b"
+        ]
+      },
+      "sha256": "bc55d91dafc7c592464fe7b9bb5db6dd4784b60f82618de77ef6a4768c51bcd8",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Catppuccin Mocha Pink",
+      "slug": "catppuccin-mocha-pink",
+      "path": "Catppuccin Mocha Pink/Catppuccin Mocha Pink.json",
+      "meta": "Catppuccin Mocha Pink/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#1e1e2e",
+          "#cdd6f4",
+          "#f5c2e7"
+        ],
+        "light": [
+          "#eff1f5",
+          "#4c4f69",
+          "#ea76cb"
+        ]
+      },
+      "sha256": "cdd98e21f3bcf889a336db684f3bebb310c00c02449bf2d36d16b8f60571b61e",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Catppuccin Mocha Rosewater",
+      "slug": "catppuccin-mocha-rosewater",
+      "path": "Catppuccin Mocha Rosewater/Catppuccin Mocha Rosewater.json",
+      "meta": "Catppuccin Mocha Rosewater/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#1e1e2e",
+          "#cdd6f4",
+          "#f5e0dc"
+        ],
+        "light": [
+          "#eff1f5",
+          "#4c4f69",
+          "#dc8a78"
+        ]
+      },
+      "sha256": "8c4433bcd47a42f85c706dadfc65340091079fe582f3068b0f7b034310a2a9b4",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Catppuccin Mocha Sapphire",
+      "slug": "catppuccin-mocha-sapphire",
+      "path": "Catppuccin Mocha Sapphire/Catppuccin Mocha Sapphire.json",
+      "meta": "Catppuccin Mocha Sapphire/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#1e1e2e",
+          "#cdd6f4",
+          "#74c7ec"
+        ],
+        "light": [
+          "#eff1f5",
+          "#4c4f69",
+          "#209fb5"
+        ]
+      },
+      "sha256": "fa933d9c0256bd8941cbd2a3563a7ed5b117e5ec6b53acb9cb6898151ecb6ca6",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Cendre",
+      "slug": "cendre",
+      "path": "Cendre/Cendre.json",
+      "meta": "Cendre/meta.json",
+      "author": "Aejkatappaja (Cendre, MIT)",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "cendre"
+      ],
+      "source": "cendre",
+      "credit": "aejkatappaja (Cendre)",
+      "licence": "MIT",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#171311",
+          "#e6d5c2",
+          "#ea9875"
+        ],
+        "light": [
+          "#fbf5f2",
+          "#382b1c",
+          "#ca7a58"
+        ]
+      },
+      "sha256": "fd042e09c24c7563d0cc6d3fdda96b3e7d1c4e0c407b268d0c9d44606d9b0594",
+      "previews": [],
+      "homepage": "https://github.com/Aejkatappaja/cendre"
+    },
+    {
+      "name": "Cendre Medium",
+      "slug": "cendre-medium",
+      "path": "Cendre Medium/Cendre Medium.json",
+      "meta": "Cendre Medium/meta.json",
+      "author": "Aejkatappaja (Cendre, MIT)",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "cendre"
+      ],
+      "source": "cendre",
+      "credit": "aejkatappaja (Cendre)",
+      "licence": "MIT",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#1d1917",
+          "#e6d5c2",
+          "#ea9875"
+        ],
+        "light": [
+          "#fbf5f2",
+          "#382b1c",
+          "#ca7a58"
+        ]
+      },
+      "sha256": "328c0ed144d9f96b37484dd7429e6f361197ba7e2295a5f26748e18a8cfa6c25",
+      "previews": [],
+      "homepage": "https://github.com/Aejkatappaja/cendre"
+    },
+    {
+      "name": "Cendre Soft",
+      "slug": "cendre-soft",
+      "path": "Cendre Soft/Cendre Soft.json",
+      "meta": "Cendre Soft/meta.json",
+      "author": "Aejkatappaja (Cendre, MIT)",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "cendre"
+      ],
+      "source": "cendre",
+      "credit": "aejkatappaja (Cendre)",
+      "licence": "MIT",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#231f1d",
+          "#e6d5c2",
+          "#ea9875"
+        ],
+        "light": [
+          "#fbf5f3",
+          "#382b1c",
+          "#ca7b58"
+        ]
+      },
+      "sha256": "74b806196032f490b20d8f895451b482c5553420f6e31909954c02049f458ff2",
+      "previews": [],
+      "homepage": "https://github.com/Aejkatappaja/cendre"
+    },
+    {
+      "name": "Cherry Blossom",
+      "slug": "cherry-blossom",
+      "path": "Cherry Blossom/Cherry Blossom.json",
+      "meta": "Cherry Blossom/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#2a1922",
+          "#f3c7d7",
+          "#f2c1d4"
+        ],
+        "light": [
+          "#f7e6ee",
+          "#2a1b21",
+          "#6f4e63"
+        ]
+      },
+      "sha256": "a57f0036124ce76139fe11ab3a3c994f97cedc42ea09e87cb633d678bd27347a",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Coral and Sea",
+      "slug": "coral-and-sea",
+      "path": "Coral and Sea/Coral and Sea.json",
+      "meta": "Coral and Sea/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#1e1e1e",
+          "#d4d4d4",
+          "#d1704f"
+        ],
+        "light": [
+          "#ffffff",
+          "#333333",
+          "#d1704f"
+        ]
+      },
+      "sha256": "04d94ca4f3306389c02454a74f21a6bb6a670b2bc02a5bbd9e0e625c2fba0279",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Cream",
+      "slug": "cream",
+      "path": "Cream/Cream.json",
+      "meta": "Cream/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#161311",
+          "#e6dfd3",
+          "#a2b574"
+        ],
+        "light": [
+          "#e5d8be",
+          "#2d2622",
+          "#4b5e37"
+        ]
+      },
+      "sha256": "805c2fe7654f1422e6053801f1a63c7d71111486dd50b27f853b665b35577d9b",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Cream Autumn",
+      "slug": "cream-autumn",
+      "path": "Cream Autumn/Cream Autumn.json",
+      "meta": "Cream Autumn/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#161311",
+          "#dcd8cd",
+          "#e5c799"
+        ],
+        "light": [
+          "#e5d8be",
+          "#3a322d",
+          "#b56839"
+        ]
+      },
+      "sha256": "e577b077fcad10e0c83d5e9c694ec4a8d917b837d05c61ee4c0b92f26eac8a92",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Creamy Forest",
+      "slug": "creamy-forest",
+      "path": "Creamy Forest/Creamy Forest.json",
+      "meta": "Creamy Forest/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#1c1e1a",
+          "#f4f6eb",
+          "#a2b08d"
+        ],
+        "light": [
+          "#f4f6eb",
+          "#1c1e1a",
+          "#4c573c"
+        ]
+      },
+      "sha256": "ce15e951994dd9c5a83b8dffe854f073e74c4d58aac93533cb1cf7b4991d480e",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Cyberpunk",
+      "slug": "cyberpunk",
+      "path": "Cyberpunk/Cyberpunk.json",
+      "meta": "Cyberpunk/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#0c1017",
+          "#5c8ac4",
+          "#c4a82e"
+        ],
+        "light": [
+          "#dae6e8",
+          "#1a1914",
+          "#00b8b3"
+        ]
+      },
+      "sha256": "eebea2f6243e0730c52907f4d17bb808e5477331c414028366ef8a2bbc1063be",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Doomed",
+      "slug": "doomed",
+      "path": "Doomed/Doomed.json",
+      "meta": "Doomed/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#1c1e1e",
+          "#fffcf8",
+          "#51afef"
+        ],
+        "light": [
+          "#f0f0f0",
+          "#383a42",
+          "#4078f2"
+        ]
+      },
+      "sha256": "23316594882ac4c5f19950f4c2ffcb1e5c48809fbb39e917d0675dbc1e442136",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Eldritch",
+      "slug": "eldritch",
+      "path": "Eldritch/Eldritch.json",
+      "meta": "Eldritch/meta.json",
+      "author": "Noctalia (MIT) - github.com/noctalia-dev/noctalia",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia"
+      ],
+      "source": "noctalia",
+      "credit": "Noctalia (noctalia-dev)",
+      "licence": "MIT",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#212337",
+          "#ebfafa",
+          "#37f499"
+        ],
+        "light": [
+          "#f0f3f4",
+          "#1e2029",
+          "#fb5bb6"
+        ]
+      },
+      "sha256": "8ba62dff4376407004349eba3bb9dd67a188629c8ce806ce28c3da546eda0140",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/noctalia"
+    },
+    {
+      "name": "Espresso Cream",
+      "slug": "espresso-cream",
+      "path": "Espresso Cream/Espresso Cream.json",
+      "meta": "Espresso Cream/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#1a120b",
+          "#ede0d4",
+          "#e29578"
+        ],
+        "light": [
+          "#dfd3c3",
+          "#241d17",
+          "#8e5a44"
+        ]
+      },
+      "sha256": "0b05f0ab9fa95c2ddd2fcd4bda948d82b3f138d1e600e56ab35bf50a95eb60f3",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Everdeer",
+      "slug": "everdeer",
+      "path": "Everdeer/Everdeer.json",
+      "meta": "Everdeer/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#1c110e",
+          "#f4ded9",
+          "#ffb4a3"
+        ],
+        "light": [
+          "#fff8f6",
+          "#251916",
+          "#a03218"
+        ]
+      },
+      "sha256": "638b1c058adee35e8c7090a078395007616c8590f897ee1143b60a3716039518",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Everforest Dim",
+      "slug": "everforest-dim",
+      "path": "Everforest Dim/Everforest Dim.json",
+      "meta": "Everforest Dim/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#232a2e",
+          "#859289",
+          "#a7c080"
+        ],
+        "light": [
+          "#9da9a0",
+          "#232a2e",
+          "#434f55"
+        ]
+      },
+      "sha256": "812c85107d9cb048d2f6d6b9661ec624a3e6df764101e045f2f3f05e760255a7",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Everforest Material",
+      "slug": "everforest-material",
+      "path": "Everforest Material/Everforest Material.json",
+      "meta": "Everforest Material/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#161616",
+          "#d3c6aa",
+          "#a7c080"
+        ],
+        "light": [
+          "#fffbef",
+          "#5c6a72",
+          "#8da101"
+        ]
+      },
+      "sha256": "a59c695b5fae12004f2b17b9f3bd5ce1a7d78480bd47251f75d35285a29cffb1",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Flexoki",
+      "slug": "flexoki",
+      "path": "Flexoki/Flexoki.json",
+      "meta": "Flexoki/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#100f0f",
+          "#cecdc3",
+          "#879a39"
+        ],
+        "light": [
+          "#fffcf0",
+          "#100f0f",
+          "#879a39"
+        ]
+      },
+      "sha256": "d398ec91276c0fd641b3c4df7391e324a86268fa658df39406c7781605fd53cd",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Garnet",
+      "slug": "garnet",
+      "path": "Garnet/Garnet.json",
+      "meta": "Garnet/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#121212",
+          "#e8e0e0",
+          "#990000"
+        ],
+        "light": [
+          "#f7f2f2",
+          "#1a1414",
+          "#990000"
+        ]
+      },
+      "sha256": "65f0d84e39bcdcf83a748b748a66e1a4bdab9aa1574078bb113a444b5ad439e1",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "GitHub Dark",
+      "slug": "github-dark",
+      "path": "GitHub Dark/GitHub Dark.json",
+      "meta": "GitHub Dark/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#010409",
+          "#c9d1d9",
+          "#58a6ff"
+        ],
+        "light": [
+          "#ffffff",
+          "#1f2328",
+          "#0969da"
+        ]
+      },
+      "sha256": "1163b713adc2a3a4b76f5028758728c1e8184dbbd49605fe440f7237fd911a91",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Gruber Darker",
+      "slug": "gruber-darker",
+      "path": "Gruber Darker/Gruber Darker.json",
+      "meta": "Gruber Darker/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#181818",
+          "#e4e4ef",
+          "#ffdd33"
+        ],
+        "light": [
+          "#f5f5f5",
+          "#181818",
+          "#5f627f"
+        ]
+      },
+      "sha256": "638ee580dd5afa9861efad0492787d69b006ad9328399365c45dc46052e5a0cb",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Gruvbox Material",
+      "slug": "gruvbox-material",
+      "path": "Gruvbox Material/Gruvbox Material.json",
+      "meta": "Gruvbox Material/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#32302f",
+          "#ddc7a1",
+          "#a9b665"
+        ],
+        "light": [
+          "#f2e5bc",
+          "#4f3829",
+          "#6c782e"
+        ]
+      },
+      "sha256": "389dc520bfeeddfd992566096d2d7a7108a909be0f9881423a4f100a4aab9778",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Gruvbox Material Hard",
+      "slug": "gruvbox-material-hard",
+      "path": "Gruvbox Material Hard/Gruvbox Material Hard.json",
+      "meta": "Gruvbox Material Hard/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#1d2021",
+          "#d4be98",
+          "#a9b665"
+        ],
+        "light": [
+          "#f9f5d7",
+          "#654735",
+          "#6c782e"
+        ]
+      },
+      "sha256": "03854a3d855865e4a8730b0b9c4e02e5fa5b250680d0bd7ec5ac1fec32f4f452",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Gruvbox Material Medium",
+      "slug": "gruvbox-material-medium",
+      "path": "Gruvbox Material Medium/Gruvbox Material Medium.json",
+      "meta": "Gruvbox Material Medium/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#282828",
+          "#ddc7a1",
+          "#a9b665"
+        ],
+        "light": [
+          "#fbf1c7",
+          "#4f3829",
+          "#6c782e"
+        ]
+      },
+      "sha256": "9e047c5f54bca5a5634ab9473832ad1ed98bf66d847c7b5ea94c4c2cc4139ab5",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "GruvboxAlt",
+      "slug": "gruvboxalt",
+      "path": "GruvboxAlt/GruvboxAlt.json",
+      "meta": "GruvboxAlt/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#282828",
+          "#fbf1c7",
+          "#ebdbb2"
+        ],
+        "light": [
+          "#fbf1c7",
+          "#3c3836",
+          "#3c3836"
+        ]
+      },
+      "sha256": "bc70813a739fcd8c004bf3329cdbb3b5c8381251696388db8627bab9f57991a0",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Heartbox",
+      "slug": "heartbox",
+      "path": "Heartbox/Heartbox.json",
+      "meta": "Heartbox/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#1a1214",
+          "#f4ebe0",
+          "#e02030"
+        ],
+        "light": [
+          "#fff8f0",
+          "#1a1214",
+          "#e02030"
+        ]
+      },
+      "sha256": "284e66da2af35a8440882e8e4adcc87ecdaa8b8ed216bf9c5055fd0f49bbe8dc",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Hexa34C",
+      "slug": "hexa34c",
+      "path": "Hexa34C/Hexa34C.json",
+      "meta": "Hexa34C/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#101510",
+          "#dfe4dc",
+          "#9ad4a1"
+        ],
+        "light": [
+          "#d7dbd3",
+          "#181d18",
+          "#346940"
+        ]
+      },
+      "sha256": "07c596fc861808418a9b85a162cb683b2cbb51965ef87a6fdc141c0a9e9b0859",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Horizon",
+      "slug": "horizon",
+      "path": "Horizon/Horizon.json",
+      "meta": "Horizon/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#1a1c23",
+          "#fdf0ed",
+          "#25b2bc"
+        ],
+        "light": [
+          "#fadad1",
+          "#16161c",
+          "#1d8991"
+        ]
+      },
+      "sha256": "090aada9a365f39d0c924d8c66ed3c9d9f5300678ae79f6abd219a0d229cbf53",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Inabakumori",
+      "slug": "inabakumori",
+      "path": "Inabakumori/Inabakumori.json",
+      "meta": "Inabakumori/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#333333",
+          "#dddddd",
+          "#b2b2b2"
+        ],
+        "light": [
+          "#dddddd",
+          "#333333",
+          "#333333"
+        ]
+      },
+      "sha256": "d64deaa77a9789aa9735d19d85cd928e6307c5318cd82d1669cb22529dbdf618",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Jiva",
+      "slug": "jiva",
+      "path": "Jiva/Jiva.json",
+      "meta": "Jiva/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#2d2b33",
+          "#e5e5d8",
+          "#eddd8e"
+        ],
+        "light": [
+          "#fff4e3",
+          "#666666",
+          "#db8484"
+        ]
+      },
+      "sha256": "3641ddb648573d080e4310a0512ad622f448e734effa9b17eb3cf3182270114d",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Jiva Lotus",
+      "slug": "jiva-lotus",
+      "path": "Jiva Lotus/Jiva Lotus.json",
+      "meta": "Jiva Lotus/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#212226",
+          "#e1e2e5",
+          "#debfbf"
+        ],
+        "light": [
+          "#e6ebdd",
+          "#666666",
+          "#d18080"
+        ]
+      },
+      "sha256": "813c50e54b3b885947182e8fb9626cbe47cb7a9402beed2d3368036933956ab9",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Jiva Paper",
+      "slug": "jiva-paper",
+      "path": "Jiva Paper/Jiva Paper.json",
+      "meta": "Jiva Paper/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#212226",
+          "#e1e2e5",
+          "#bfc0de"
+        ],
+        "light": [
+          "#ebe7dd",
+          "#666666",
+          "#666666"
+        ]
+      },
+      "sha256": "428fe001235e776d083a4749771c0d6ed17d510c972683507182b62cddec8d6c",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Kanagawa Dragon",
+      "slug": "kanagawa-dragon",
+      "path": "Kanagawa Dragon/Kanagawa Dragon.json",
+      "meta": "Kanagawa Dragon/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#181616",
+          "#c5c9c5",
+          "#8a9a7b"
+        ],
+        "light": [
+          "#c5c9c5",
+          "#181616",
+          "#606d54"
+        ]
+      },
+      "sha256": "b9bffb93485d072bd5750b39eef7b9fb5764a06a0c65e118ac2e891873cbaf1e",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Kanagawa Kasumi",
+      "slug": "kanagawa-kasumi",
+      "path": "Kanagawa Kasumi/Kanagawa Kasumi.json",
+      "meta": "Kanagawa Kasumi/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#1a2026",
+          "#d9d1ba",
+          "#d9a78b"
+        ],
+        "light": [
+          "#d9d1ba",
+          "#1a2026",
+          "#936b53"
+        ]
+      },
+      "sha256": "549b83e400829745cd836dae91a1e10a7a775c29f7287b5a99d2c9bb9adca4a9",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Kanagawa Paper",
+      "slug": "kanagawa-paper",
+      "path": "Kanagawa Paper/Kanagawa Paper.json",
+      "meta": "Kanagawa Paper/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#1f1f28",
+          "#dcd7ba",
+          "#c4b28a"
+        ],
+        "light": [
+          "#f2f1ec",
+          "#4f5357",
+          "#6b7f9f"
+        ]
+      },
+      "sha256": "6bd0830803502ab6b7b3aa2dd0372d441f9eb311b44c46260aac38f8fca73242",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Kemuri",
+      "slug": "kemuri",
+      "path": "Kemuri/Kemuri.json",
+      "meta": "Kemuri/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#242120",
+          "#e5dec9",
+          "#cb9168"
+        ],
+        "light": [
+          "#ddd7ca",
+          "#242120",
+          "#864a2d"
+        ]
+      },
+      "sha256": "72ac6ee9301b83f2c2b08a58916c792ccbde401c87f955b7e4a675ab5924dc2f",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Kemuri Koke",
+      "slug": "kemuri-koke",
+      "path": "Kemuri Koke/Kemuri Koke.json",
+      "meta": "Kemuri Koke/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#242120",
+          "#e5dec9",
+          "#8ba37e"
+        ],
+        "light": [
+          "#ddd7ca",
+          "#242120",
+          "#4f5e49"
+        ]
+      },
+      "sha256": "7b37a5e38cdb157c7e6ee45066a4570038837231c41bad8fd76bbffaec8703b0",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Kemuri Susu",
+      "slug": "kemuri-susu",
+      "path": "Kemuri Susu/Kemuri Susu.json",
+      "meta": "Kemuri Susu/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#1e1d1b",
+          "#f0ede6",
+          "#cabaaa"
+        ],
+        "light": [
+          "#d4c1a8",
+          "#262524",
+          "#262524"
+        ]
+      },
+      "sha256": "32692a4a94360c10c9799869b7f5f46d2ce0a5abff49511bebbb2289020259fc",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Kitten",
+      "slug": "kitten",
+      "path": "Kitten/Kitten.json",
+      "meta": "Kitten/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#232323",
+          "#828282",
+          "#b7b7b7"
+        ],
+        "light": [
+          "#ded9ca",
+          "#696969",
+          "#5d5d5d"
+        ]
+      },
+      "sha256": "778e14de0e1d3d00497ebb54d8934612f4924283e77442367380b9e4d6871800",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Koneko",
+      "slug": "koneko",
+      "path": "Koneko/Koneko.json",
+      "meta": "Koneko/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#232323",
+          "#c2c2c2",
+          "#cc7e8b"
+        ],
+        "light": [
+          "#dac6c8",
+          "#000000",
+          "#cc7e8b"
+        ]
+      },
+      "sha256": "692b6ac9246a435b73028921e54c0d5fbda876a805e8c572d1583c14ce1bdb41",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Lilac AMOLED",
+      "slug": "lilac-amoled",
+      "path": "Lilac AMOLED/Lilac AMOLED.json",
+      "meta": "Lilac AMOLED/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#000000",
+          "#e8d8ff",
+          "#b58fff"
+        ],
+        "light": [
+          "#fbf8ff",
+          "#1a1428",
+          "#8a56d4"
+        ]
+      },
+      "sha256": "3ba1cc37c0ce5975bcbca7502141ad57b96255847dc31103a09cd0f56853a779",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Macaron",
+      "slug": "macaron",
+      "path": "Macaron/Macaron.json",
+      "meta": "Macaron/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#18181a",
+          "#d4d4d4",
+          "#e5b4e2"
+        ],
+        "light": [
+          "#f2f2f2",
+          "#2c2c2e",
+          "#b574b2"
+        ]
+      },
+      "sha256": "f3f9bbf06b4ccfd9bb4ca495b035375c077f4032642a7a05e8a5bb86c72911b4",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Matecito",
+      "slug": "matecito",
+      "path": "Matecito/Matecito.json",
+      "meta": "Matecito/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#1e2320",
+          "#d3cdc3",
+          "#8da383"
+        ],
+        "light": [
+          "#e3dccf",
+          "#1f2421",
+          "#4a5944"
+        ]
+      },
+      "sha256": "e122eca8b22ae762e8e06eb2fea9b85cb6a1daeb136d99300b853770d8aab5cd",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Miasma",
+      "slug": "miasma",
+      "path": "Miasma/Miasma.json",
+      "meta": "Miasma/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#222222",
+          "#c2c2b0",
+          "#c9a554"
+        ],
+        "light": [
+          "#fafaf5",
+          "#222222",
+          "#ab8836"
+        ]
+      },
+      "sha256": "03747d9c60813be40d530c8d9bd77596a9f0709ebc0c0ad7a20f446b74fca653",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Mine",
+      "slug": "mine",
+      "path": "Mine/Mine.json",
+      "meta": "Mine/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#1d1b1d",
+          "#e1e2d5",
+          "#e1e2d5"
+        ],
+        "light": [
+          "#ffffff",
+          "#1d1b1d",
+          "#3a3a34"
+        ]
+      },
+      "sha256": "d90a458a4cf189992ceb5b7d7a3a146b821c679698b565e6085eed36fccb3c63",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Mizuki-Akiyama",
+      "slug": "mizuki-akiyama",
+      "path": "Mizuki-Akiyama/Mizuki-Akiyama.json",
+      "meta": "Mizuki-Akiyama/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#10111b",
+          "#eee7f0",
+          "#e6a6c8"
+        ],
+        "light": [
+          "#fff7fb",
+          "#21101c",
+          "#b72f78"
+        ]
+      },
+      "sha256": "fe01ab61fc74d01ffc0c38710b7a527d3fceca6c9f3359f030ecbe6e68c2df45",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Monochrome",
+      "slug": "monochrome",
+      "path": "Monochrome/Monochrome.json",
+      "meta": "Monochrome/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#111111",
+          "#828282",
+          "#aaaaaa"
+        ],
+        "light": [
+          "#d4d4d4",
+          "#696969",
+          "#555555"
+        ]
+      },
+      "sha256": "2b248ef790690771171c281cf1d9eaeeda81e436d0120d42378cb40f11e21641",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Murasaki",
+      "slug": "murasaki",
+      "path": "Murasaki/Murasaki.json",
+      "meta": "Murasaki/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#300443",
+          "#fef7e7",
+          "#e8bcfb"
+        ],
+        "light": [
+          "#f7e7fe",
+          "#6f099a",
+          "#8e0cc6"
+        ]
+      },
+      "sha256": "ada1bb2e54b551012a3b967743c67ce19d89aac5c5ffb27c5c984963cf0a72fa",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Murata",
+      "slug": "murata",
+      "path": "Murata/Murata.json",
+      "meta": "Murata/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#1a1b1c",
+          "#cdc5bd",
+          "#db6d6d"
+        ],
+        "light": [
+          "#fdf8f2",
+          "#1a1b1c",
+          "#bf5a5a"
+        ]
+      },
+      "sha256": "cb6d42339e9ce52ce2d5d0e5654d233815cec4549ef594c6695fc3781c9c6ba0",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "NaySayer",
+      "slug": "naysayer",
+      "path": "NaySayer/NaySayer.json",
+      "meta": "NaySayer/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#062329",
+          "#d1b897",
+          "#2ec09c"
+        ],
+        "light": [
+          "#ffffff",
+          "#062329",
+          "#28a485"
+        ]
+      },
+      "sha256": "445e59361aaf51407033c1c0335db3f309584cdd0991173005ff81dbdd0a0e62",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Neon Surf",
+      "slug": "neon-surf",
+      "path": "Neon Surf/Neon Surf.json",
+      "meta": "Neon Surf/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#000000",
+          "#80c8f4",
+          "#00a8f4"
+        ],
+        "light": [
+          "#f0faff",
+          "#06101a",
+          "#0284c7"
+        ]
+      },
+      "sha256": "b6862b3162d32e4b1944c1649bbbed51795a0434d0945f829c34e4ea0910a3c7",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Noctalia",
+      "slug": "noctalia",
+      "path": "Noctalia/Noctalia.json",
+      "meta": "Noctalia/meta.json",
+      "author": "Noctalia (MIT) - github.com/noctalia-dev/noctalia",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia"
+      ],
+      "source": "noctalia",
+      "credit": "Noctalia (noctalia-dev)",
+      "licence": "MIT",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#070722",
+          "#f3edf7",
+          "#fff59b"
+        ],
+        "light": [
+          "#e6e8fa",
+          "#0e0e43",
+          "#5d65f5"
+        ]
+      },
+      "sha256": "9beb2108b2fd14bf3dfd5716b059c54bc40558715e085c00c4949fe90075c252",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/noctalia"
+    },
+    {
+      "name": "Noctalia legacy",
+      "slug": "noctalia-legacy",
+      "path": "Noctalia legacy/Noctalia legacy.json",
+      "meta": "Noctalia legacy/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#1c1822",
+          "#e9e4f0",
+          "#c7a1d8"
+        ],
+        "light": [
+          "#f5f1fa",
+          "#1c1822",
+          "#9b59ba"
+        ]
+      },
+      "sha256": "bd274268e8dcc5bc62185efd6922aa12378f7f6e64303c3a1de70b490d99a6df",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Nord Aurora",
+      "slug": "nord-aurora",
+      "path": "Nord Aurora/Nord Aurora.json",
+      "meta": "Nord Aurora/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#2e3440",
+          "#eceff4",
+          "#b48ead"
+        ],
+        "light": [
+          "#eceff4",
+          "#2e3440",
+          "#c87056"
+        ]
+      },
+      "sha256": "7e9dc60f43e71193ee1ca9658b6874f2173f221ab8373db660645052fcf46c2a",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Oasis Abyss",
+      "slug": "oasis-abyss",
+      "path": "Oasis Abyss/Oasis Abyss.json",
+      "meta": "Oasis Abyss/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#1a1a1a",
+          "#ffdacc",
+          "#d06666"
+        ],
+        "light": [
+          "#e8e0d8",
+          "#7c4734",
+          "#7d2b2b"
+        ]
+      },
+      "sha256": "6a6cedb651175437efe77dde778b5f2eb2de87bf5ccf9e9bf2f178f531bd749b",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Occult Umbral",
+      "slug": "occult-umbral",
+      "path": "Occult Umbral/Occult Umbral.json",
+      "meta": "Occult Umbral/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#0a0a12",
+          "#e4ded2",
+          "#bb3535"
+        ],
+        "light": [
+          "#efe6da",
+          "#0a0a12",
+          "#8b2e2e"
+        ]
+      },
+      "sha256": "ed0ed380dcf99325850598d1c8e0a17ef53d32d70080c9e9f73b79e4f601022a",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "One Dark Two",
+      "slug": "one-dark-two",
+      "path": "One Dark Two/One Dark Two.json",
+      "meta": "One Dark Two/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#21252b",
+          "#c9ccd3",
+          "#62bac6"
+        ],
+        "light": [
+          "#e6e6e6",
+          "#282c34",
+          "#99c5cc"
+        ]
+      },
+      "sha256": "cfe735332e17e812f85aad587c8e43e2e048e07385f9bdb67bc10c77a25e3f53",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Osaka jade",
+      "slug": "osaka-jade",
+      "path": "Osaka jade/Osaka jade.json",
+      "meta": "Osaka jade/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#081512",
+          "#a6b5b1",
+          "#1a7f67"
+        ],
+        "light": [
+          "#aec2b4",
+          "#2c3d35",
+          "#3b7561"
+        ]
+      },
+      "sha256": "3f432c50386756e386ae2c4b7f293d328a84757bc40da5b316fe8d12c347c66c",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Oxide",
+      "slug": "oxide",
+      "path": "Oxide/Oxide.json",
+      "meta": "Oxide/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#231d1b",
+          "#e6dbd3",
+          "#b85a30"
+        ],
+        "light": [
+          "#f2e8d8",
+          "#3a2e25",
+          "#b85a30"
+        ]
+      },
+      "sha256": "9b7ac4ed85d261d0c5930c45b78d911f7b8bebc594e9b3c6f9622facfa9760c5",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Oxocarbon",
+      "slug": "oxocarbon",
+      "path": "Oxocarbon/Oxocarbon.json",
+      "meta": "Oxocarbon/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#161616",
+          "#f2f4f8",
+          "#33b1ff"
+        ],
+        "light": [
+          "#f2f4f8",
+          "#161616",
+          "#0f62fe"
+        ]
+      },
+      "sha256": "1c42cd29db85f968b40f51129fb9c75d3ef99bcdd7c4a3b3a8e72e58a5ce0650",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Paradise",
+      "slug": "paradise",
+      "path": "Paradise/Paradise.json",
+      "meta": "Paradise/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#151515",
+          "#e8e3e3",
+          "#8da3b9"
+        ],
+        "light": [
+          "#f5f5f5",
+          "#151515",
+          "#334b5f"
+        ]
+      },
+      "sha256": "b9f45feaa43dad339a62685ac53f294b748ad33e7909c62096188e9cf613ded9",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Peche",
+      "slug": "peche",
+      "path": "Peche/Peche.json",
+      "meta": "Peche/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#0e1214",
+          "#abbcc4",
+          "#9dd2c0"
+        ],
+        "light": [
+          "#e8eff2",
+          "#738a92",
+          "#50957e"
+        ]
+      },
+      "sha256": "9d1c02f615643d6ecccb19b5cfe7bbc3a5fe445c8ee1894582dc1e45325f3cdf",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Rose Pine Alt",
+      "slug": "rose-pine-alt",
+      "path": "Rose Pine Alt/Rose Pine Alt.json",
+      "meta": "Rose Pine Alt/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#191724",
+          "#e0def4",
+          "#c4a7e7"
+        ],
+        "light": [
+          "#fffaf3",
+          "#575279",
+          "#907aa9"
+        ]
+      },
+      "sha256": "539661ece648fea191eed80e966f40d294c3dff46e4c6aba389b8aca486ee4d1",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Rose Pine Moon",
+      "slug": "rose-pine-moon",
+      "path": "Rose Pine Moon/Rose Pine Moon.json",
+      "meta": "Rose Pine Moon/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#232136",
+          "#e0def4",
+          "#ea9a97"
+        ],
+        "light": [
+          "#fffaf3",
+          "#575279",
+          "#d1706b"
+        ]
+      },
+      "sha256": "5306920339499c89004cff2dd8d0f2a934bcd5f85680f0c48ededb3de71290b9",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Rose Pine Moon Alt",
+      "slug": "rose-pine-moon-alt",
+      "path": "Rose Pine Moon Alt/Rose Pine Moon Alt.json",
+      "meta": "Rose Pine Moon Alt/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#232136",
+          "#e0def4",
+          "#c4a7e7"
+        ],
+        "light": [
+          "#fffaf3",
+          "#575279",
+          "#907aa9"
+        ]
+      },
+      "sha256": "72f1c795c6a3de493873f3c1ad891f095c2e1ff5f0bc3009c27b3a751a83f1a1",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Rosey AMOLED",
+      "slug": "rosey-amoled",
+      "path": "Rosey AMOLED/Rosey AMOLED.json",
+      "meta": "Rosey AMOLED/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#000000",
+          "#ffe0eb",
+          "#ff8cb3"
+        ],
+        "light": [
+          "#fff5fa",
+          "#2c1822",
+          "#e3648e"
+        ]
+      },
+      "sha256": "1950cd6facc3e15be5dfd9905770971d50ffb60cbeef1877c4796a279c107f27",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Rosé Pine",
+      "slug": "ros-pine",
+      "path": "Rosé Pine/Rosé Pine.json",
+      "meta": "Rosé Pine/meta.json",
+      "author": "Noctalia (MIT) - github.com/noctalia-dev/noctalia",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia"
+      ],
+      "source": "noctalia",
+      "credit": "Noctalia (noctalia-dev)",
+      "licence": "MIT",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#191724",
+          "#e0def4",
+          "#ebbcba"
+        ],
+        "light": [
+          "#fffaf3",
+          "#575279",
+          "#d7827e"
+        ]
+      },
+      "sha256": "75f58738b9275161900f30993eddb61c44875ed931edc566a1a9cab41c8c5b5e",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/noctalia"
+    },
+    {
+      "name": "SeaBed",
+      "slug": "seabed",
+      "path": "SeaBed/SeaBed.json",
+      "meta": "SeaBed/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#0e2231",
+          "#e9f0f2",
+          "#87e1dc"
+        ],
+        "light": [
+          "#cae9e5",
+          "#2b444a",
+          "#427876"
+        ]
+      },
+      "sha256": "fe39bb8a0222e49fc2a8d4b507be0512ad24e5e30a2e488707c7e9c214033ca3",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Seoul256",
+      "slug": "seoul256",
+      "path": "Seoul256/Seoul256.json",
+      "meta": "Seoul256/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#3a3a3a",
+          "#d0d0d0",
+          "#d5a55f"
+        ],
+        "light": [
+          "#dadada",
+          "#444444",
+          "#a9824b"
+        ]
+      },
+      "sha256": "996c5287b2241e936acd6164fe87b3ff4ece48e8aa6dc992bb581ff54bfcb80e",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Seoul256 Hard",
+      "slug": "seoul256-hard",
+      "path": "Seoul256 Hard/Seoul256 Hard.json",
+      "meta": "Seoul256 Hard/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#1c1c1c",
+          "#d0d0d0",
+          "#d5a55f"
+        ],
+        "light": [
+          "#eeeeee",
+          "#444444",
+          "#a9824b"
+        ]
+      },
+      "sha256": "680a4669c725f5a4d6acbec5250117db37a3f459366de65e64b97f6167edd9fc",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Seoul256 Soft",
+      "slug": "seoul256-soft",
+      "path": "Seoul256 Soft/Seoul256 Soft.json",
+      "meta": "Seoul256 Soft/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#4e4e4e",
+          "#d0d0d0",
+          "#d5a55f"
+        ],
+        "light": [
+          "#d0d0d0",
+          "#444444",
+          "#a9824b"
+        ]
+      },
+      "sha256": "b88210b8aeca91e2526ad36d67f921628c250c2d83f6f66ab93cae9806a8f926",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Shien",
+      "slug": "shien",
+      "path": "Shien/Shien.json",
+      "meta": "Shien/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#15131b",
+          "#bfb3db",
+          "#9b8bc1"
+        ],
+        "light": [
+          "#efeef1",
+          "#15131b",
+          "#5d507c"
+        ]
+      },
+      "sha256": "a72cbebac9a1b94cf90e357e47dfcef5c295fe2f9c04ee48b8e5ce2dfdedfb3e",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Shinonome",
+      "slug": "shinonome",
+      "path": "Shinonome/Shinonome.json",
+      "meta": "Shinonome/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#1a1d20",
+          "#ebcfb2",
+          "#d5aca9"
+        ],
+        "light": [
+          "#ebcfb2",
+          "#3d3732",
+          "#424b54"
+        ]
+      },
+      "sha256": "c087a96d984a457906289ff32fa2ade1abdc3e7d7fbff39762a49203248feb15",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Solarized Osaka",
+      "slug": "solarized-osaka",
+      "path": "Solarized Osaka/Solarized Osaka.json",
+      "meta": "Solarized Osaka/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#001419",
+          "#839395",
+          "#29a298"
+        ],
+        "light": [
+          "#fdf5e2",
+          "#576d74",
+          "#29a298"
+        ]
+      },
+      "sha256": "fd853249963e627ab24f32806c1fa5b42c90e36800b459973976066c2f39702a",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Spiderman",
+      "slug": "spiderman",
+      "path": "Spiderman/Spiderman.json",
+      "meta": "Spiderman/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#0b2454",
+          "#eaf0fb",
+          "#f5453f"
+        ],
+        "light": [
+          "#24478a",
+          "#f8faff",
+          "#c9282e"
+        ]
+      },
+      "sha256": "1489951299e00ef94dd46438e991ad9e76ad4d6b83b4b805be71501dd0fde95d",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Sway Classic",
+      "slug": "sway-classic",
+      "path": "Sway Classic/Sway Classic.json",
+      "meta": "Sway Classic/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#222222",
+          "#f0f0f0",
+          "#4c7899"
+        ],
+        "light": [
+          "#f5f5f5",
+          "#222222",
+          "#285577"
+        ]
+      },
+      "sha256": "e27a078784bcc47b9ddbf4bbd007635fd8151f1e3c21468e985643572febf62f",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Tokyo Night Moon",
+      "slug": "tokyo-night-moon",
+      "path": "Tokyo Night Moon/Tokyo Night Moon.json",
+      "meta": "Tokyo Night Moon/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#1f2335",
+          "#a9b1d6",
+          "#7a88cf"
+        ],
+        "light": [
+          "#f0f2f7",
+          "#4e70c2",
+          "#4e70c2"
+        ]
+      },
+      "sha256": "9fe601dcfeda83ac1d7c13dbdd77899fe477f172fca2c20063ad8e4b0c88fb3d",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Tokyo Night Storm",
+      "slug": "tokyo-night-storm",
+      "path": "Tokyo Night Storm/Tokyo Night Storm.json",
+      "meta": "Tokyo Night Storm/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#24283b",
+          "#c0caf5",
+          "#7aa2f7"
+        ],
+        "light": [
+          "#f0f2f7",
+          "#4e70c2",
+          "#4e70c2"
+        ]
+      },
+      "sha256": "9c9526c1e396cbc7b3cd38992d67ea04b60062aebbfa522cbe039e09fad8a279",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Tomorrow",
+      "slug": "tomorrow",
+      "path": "Tomorrow/Tomorrow.json",
+      "meta": "Tomorrow/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#1d1f21",
+          "#c5c8c6",
+          "#81a2be"
+        ],
+        "light": [
+          "#ffffff",
+          "#4d4d4c",
+          "#4271ae"
+        ]
+      },
+      "sha256": "e99b83cff9c1a16aa1364194fa0c2250895a7b8489433f4893021e8305d790f1",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Vesper",
+      "slug": "vesper",
+      "path": "Vesper/Vesper.json",
+      "meta": "Vesper/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#0c0c0c",
+          "#ffffff",
+          "#ffc799"
+        ],
+        "light": [
+          "#f2f2f2",
+          "#0c0c0c",
+          "#ffb170"
+        ]
+      },
+      "sha256": "e0a71ab082285efc722c245d3c06a5f857454cadafafd776240d1c8707d93f75",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    },
+    {
+      "name": "Zenbones",
+      "slug": "zenbones",
+      "path": "Zenbones/Zenbones.json",
+      "meta": "Zenbones/meta.json",
+      "author": "Noctalia community palettes",
+      "description": "Dark and light variants",
+      "tags": [
+        "dark",
+        "light",
+        "noctalia-community"
+      ],
+      "source": "noctalia-community",
+      "credit": "Noctalia community palettes",
+      "licence": "none upstream, included with credit",
+      "modes": [
+        "dark",
+        "light"
+      ],
+      "swatch": {
+        "dark": [
+          "#1c1917",
+          "#b4bdc3",
+          "#b4bdc3"
+        ],
+        "light": [
+          "#f0edec",
+          "#2c363c",
+          "#2c363c"
+        ]
+      },
+      "sha256": "9f6065994a74e9ca75ec908e892282c6b1d8b8d81762f3eb9beecec8be2c5fd6",
+      "previews": [],
+      "homepage": "https://github.com/noctalia-dev/community-palettes"
+    }
+  ]
+}

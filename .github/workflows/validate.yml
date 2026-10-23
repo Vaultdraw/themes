@@ -10,6 +10,11 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+      # schema, meta.json, sizes, previews listed and present, unique slugs
       - run: node scripts/validate.mjs
       - run: node scripts/build-index.mjs --check
+      - name: Regenerate index.json and fail on any difference
+        run: |
+          node scripts/build-index.mjs
+          git diff --exit-code -- index.json
       - run: node --test scripts
