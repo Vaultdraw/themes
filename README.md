@@ -93,7 +93,7 @@ It is an object `{ "schemaVersion": 1, "themes": [...] }`, themes sorted by name
 | Field | Meaning |
 | --- | --- |
 | `name` | Theme name |
-| `slug` | Lower-case name, non-alphanumerics to `-`. Accents are not folded, so "Rosé Pine" is `ros-pine` |
+| `slug` | Name without accents, lower case, non-alphanumerics to `-`. Accents are folded like the app does, so "Rosé Pine" is `rose-pine` |
 | `path` | `<Name>/<Name>.json` |
 | `meta` | `<Name>/meta.json` |
 | `author`, `description`, `tags` | From `meta.json` |

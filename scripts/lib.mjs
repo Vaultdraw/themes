@@ -14,7 +14,12 @@ const IMAGE_EXT = new Set([".png", ".webp"]);
 const ALLOWED_EXT = new Set([".json", ".png", ".webp", ".md"]);
 
 export const slugify = (name) =>
-  name.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
+  name
+    .normalize("NFKD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
 
 /** Lower-case #rrggbb ("#abc" is expanded). */
 export const hex6 = (c) => {
